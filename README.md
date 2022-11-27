@@ -28,7 +28,7 @@ First and foremost, ridesharing services are priced based on demand and supply. 
 The above result shows that even though rural areas have less rides, their fares are relatively more expensive. Also, there are less drivers available in this type of cities. Suburban cities are in the midpoint between the other two. Their fares are average price and their number of rides range in between 10 to 25 rides per city. Again, they have more drivers available than rural areas but less than urban cities. And lastly, urban cities happen to have lower fare prices but a lot more rides.
 
 
-The total number of rides from the urban, suburban and the rural areas is 2,375, and 68.4% of the total rides, and the market, come from urban areasonly 5% from rural. Also, as it can be seen in the box plot the average number of rides for urban areas was 3 times more than in rural. The maximum number of rides in rural areas was the minimum number of rides from urban. PyBer is considerably more present in the these big cities. 
+The total number of rides from the urban, suburban and the rural areas is 2,375, and 68.4% of the total rides and the market, come from urban areas, only 5.3% come from rural areas. The maximum number of rides in rural areas was the minimum number of rides from urban. PyBer is considerably more present in the these big cities. 
 
 
 Urban areas also happen to have the majority of the drivers and rural the minority. Urban areas have 8 times more drivers than rural. The presence of drivers in the suburban areas is also not as large as urban. There is clear imbalance in driver distribution across city types. 
