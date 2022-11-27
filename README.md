@@ -28,14 +28,11 @@ First and foremost, ridesharing services are priced based on demand and supply. 
 The above result shows that even though rural areas have less rides, their fares are relatively more expensive. Also, there are less drivers available in this type of cities. Suburban cities are in the midpoint between the other two. Their fares are average price and their number of rides range in between 10 to 25 rides per city. Again, they have more drivers available than rural areas but less than urban cities. And lastly, urban cities happen to have lower fare prices but a lot more rides.
 
 
-The total number of rides from the urban, suburban and the rural areas is 2,375, and 68.4% of the total rides and the market, come from urban areas, only 5.3% come from rural areas. T PyBer is considerably more present in the these big cities. 
-
-
-Urban areas also happen to have the majority of the drivers and rural the minority. Urban areas have 8 times more drivers than rural. The presence of drivers in the suburban areas is also not as large as urban. There is clear imbalance in driver distribution across city types. 
+The total number of rides from the urban, suburban and the rural areas is 2,375, and 68.4% of the total rides and the market, come from urban areas, only 5.3% come from rural areas. Additionally, urban areas happen to have more drivers than the rural areas. In fact, urban areas have 8 times more drivers than rural. The presence of drivers in the suburban areas is also not as large as urban. There is clear imbalance in driver distribution across city types. 
 
 
 
-As for fares, urban areas have the majority with a 63%. Suburban and rural still have a relatively big part of the whole as their fares are more expensive. This can be seen in the box plot as rural areas happen to have a higher overall distribution of fare prices. Nevertheless, their ranges happen to be quite similar. 
+As for fares, urban areas have the majority with a 63%. Suburban and rural still have a relatively big part of the whole as their fares are more expensive.  
 
 ![Fares_by_City_Type](https://github.com/Adpetfem83/Pyber_Analysis/blob/main/Images/Fare_by_city_type.png)
 
