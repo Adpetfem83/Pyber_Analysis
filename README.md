@@ -36,7 +36,7 @@ As for fares, urban areas have the majority with a 63%. Suburban and rural still
 
 ![Fares_by_City_Type](https://github.com/Adpetfem83/Pyber_Analysis/blob/main/Images/Fare_by_city_type.png)
 
-And last but not least, the multi-line graph that shows the weekly fares for all three city types from January 2019 to April of the same year. The graph shows that the sum of fares for urban cities was more than $1800 which is more than 3 times the max value for the rural cities. The sum of fares for suburban cities was less than $1500 throughout. Even though we concluded that the fares were more expensive in rural areas, this graph still happens to address that urban sum of fares was relatively a lot higher. This because the sum of fares accounts for all the rides made during that time, which we also concluded that urban cities had a lot more drivers and rides made. 
+Meanwhile, the multi-line graph above shows the weekly fares for all three city types from January 2019 to April of the same year. The graph reveals that the sum of fares for urban cities was more than $1800 which is more than 3 times the max value for the rural cities. The sum of fares for suburban cities was less than $1500 throughout. Even though we concluded that the fares were more expensive in rural areas, this graph still happens to address that urban sum of fares was relatively a lot higher. This because the sum of fares accounts for all the rides made during that time, which we also concluded that urban cities had a lot more drivers and rides made. 
 
 ## Summary
 
