@@ -5,26 +5,27 @@
 #### Analysis on ridesharing data using Pandas, NumPy, and Matplotlib Libraries. 
 
 ## Overview of the Analysis
-In this project I will be working with ridesharing data from different cities located in urban, suburban, and rural areas. The goal will be to produce a complete analysis with visualizations in order to help PyBer improve access to ridesharing services and determine affordability for underserved neighborhoods. 
+The purpose of this project is to produce a complete analysis with visualizations to help PyBer improve access to ridesharing services and determine affordability for underserved neighborhoods. 
+For this project, I will be working with ridesharing data from different cities located in urban, suburban, and rural areas. 
 
 ## Resources
 - Data sources:
   - city_data.csv
   - ride_data.csv
 
-- Software:
-  - Python 3.6.1
+- Software used are:
+  - Python 3.8.1
   - Jupyter Notebook
   - Pandas, NumPy, Matplotlib, and SciPy Libraries 
 
 ## Results
 
-Ridesharing services are priced based on supply and demand. Clearly, there are more rides and drivers in urban cities as there are usually more people concentrated in the big cities. Then come suburban cities in second place and rural in last place.
+First and foremost, ridesharing services are priced based on demand and supply. Obviously, there are more rides and drivers in urban cities as there are more people concentrated in the big cities than suburban and rural communities respectively. 
 
-![Pyber_Summary](https://github.com/Adpetfem83/Pyber_Challenge_5.ipynb-Folder/blob/main/Images/Pyber_Summary.png)
+![Pyber_Summary](https://github.com/Adpetfem83/Pyber_Analysis/blob/main/Images/Pyber_Summary.png)
 
 
-This bubble plot shows how even though rural areas have less rides, their fares are relatively more expensive. Also, there are less drivers available in this type of cities as bubbles are smaller. Suburban cities are in the midpoint between the other two. Their fares are average price and their number of rides range in between 10 to 25 rides per city. Again, with somewhat more drivers available than rural areas but less than urban. And lastly, urban cities happen to have lower fare prices but a lot more rides.
+The above result shows that even though rural areas have less rides, their fares are relatively more expensive. Also, there are less drivers available in this type of cities. Suburban cities are in the midpoint between the other two. Their fares are average price and their number of rides range in between 10 to 25 rides per city. Again, they have more drivers available than rural areas but less than urban cities. And lastly, urban cities happen to have lower fare prices but a lot more rides.
 
 
 Almost 69% of the rides, and therefore the market, come from urban areas. And only 5% from rural. Also, as it can be seen in the box plot the average number of rides for urban areas was 3 times more than in rural. The maximum number of rides in rural areas was the minimum number of rides from urban. PyBer is considerably more present in the these big cities. 
@@ -36,7 +37,7 @@ Urban areas also happen to have the majority of the drivers and rural the minori
 
 As for fares, urban areas have the majority with a 63%. Suburban and rural still have a relatively big part of the whole as their fares are more expensive. This can be seen in the box plot as rural areas happen to have a higher overall distribution of fare prices. Nevertheless, their ranges happen to be quite similar. 
 
-![Fares_by_City_Type](https://github.com/Adpetfem83/Pyber_Challenge_5.ipynb-Folder/blob/main/Images/Fare_by_city_type.png)
+![Fares_by_City_Type](https://github.com/Adpetfem83/Pyber_Analysis/blob/main/Images/Fare_by_city_type.png)
 
 And last but not least, the multi-line graph that shows the weekly fares for all three city types from January 2019 to April of the same year. The graph shows that the sum of fares for urban cities was more than $1800 which is more than 3 times the max value for the rural cities. The sum of fares for suburban cities was less than $1500 throughout. Even though we concluded that the fares were more expensive in rural areas, this graph still happens to address that urban sum of fares was relatively a lot higher. This because the sum of fares accounts for all the rides made during that time, which we also concluded that urban cities had a lot more drivers and rides made. 
 
